@@ -1,4 +1,4 @@
-# FinalPD-Aragno-Barros
+
 FinalPD
 Sopa de letra
 
